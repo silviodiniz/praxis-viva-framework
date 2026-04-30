@@ -1,6 +1,6 @@
 # 🧠 Modelo Práxis Viva
  
- PETE — Protocolo de Exposição de Tensões Estruturais
+# ⚙️ PETE — Protocolo de Exposição de Tensões Estruturais
 ________________________________________
 🎯 FINALIDADE
 O PETE é o instrumento oficial do Práxis Viva para:
