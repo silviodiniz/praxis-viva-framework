@@ -1,3 +1,5 @@
+# 🧠 Modelo Práxis Viva
+
 UTR - Unidade de Trabalho Real (envolve sempre tensão)
 Uma UTR representa uma capacidade humana observável em situações concretas de trabalho.
 Ela não mede conhecimento isolado.
