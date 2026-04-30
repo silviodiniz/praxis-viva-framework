@@ -1,3 +1,5 @@
+# 🧠 Modelo Práxis Viva
+ 
  PETE — Protocolo de Exposição de Tensões Estruturais
 ________________________________________
 🎯 FINALIDADE
