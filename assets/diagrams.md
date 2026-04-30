@@ -1,6 +1,19 @@
 # Diagramas do Práxis Viva
 
-Aqui ficarão os diagramas do sistema:
-- Radar
-- Ciclo da Práxis
-- Matriz
+## 🔁 Ciclo da Práxis
+
+Leitura → Ação → Exposição → Aprendizado → Nova ação
+
+---
+
+## 🧭 Estrutura do Sistema
+
+INPUT (situação real)
+↓
+Decisão
+↓
+PETE (estrutura)
+↓
+Diagnóstico
+↓
+Trilha
