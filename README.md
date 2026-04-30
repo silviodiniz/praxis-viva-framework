@@ -1,3 +1,5 @@
+![Práxis Viva](assets/capa.png)
+
 # 🧠 Práxis Viva
 
 **Ecossistema de avaliação, orientação e desenvolvimento da tomada de decisão sob tensão no trabalho.**
